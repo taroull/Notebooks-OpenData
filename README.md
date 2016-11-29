@@ -4,3 +4,4 @@ Notebooks realizados con datos abiertos.
 
 * **Población por barrio de Santa Cruz de Tenerife**
 
+* **Población por barrio de Santa Cruz de Tenerife** *(Se añade un mapa de calor)*
